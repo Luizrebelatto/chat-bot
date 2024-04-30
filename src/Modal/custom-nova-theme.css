@@ -1,0 +1,26 @@
+.custom-ai-chat-comp.nluxc-root.nluxc-theme-nova {
+    --nluxc-button-background-color: #5fdfe0;
+    --nluxc-button-border-color: #5fdfe0;
+
+    --nluxc-button-active-background-color: #ea09aa;
+    --nluxc-button-active-border-color: ##ea09aa;
+
+    --nluxc-button-disabled-background-color: #5fdfe0;
+    --nluxc-button-disabled-border-color: #5fdfe0;
+
+    --nluxc-message-sent-background-color: #13aaa5;
+    --nluxc-message-sent-border-color: #13aaa5;
+
+    --nluxc-message-sent-active-background-color: #267df8;
+    --nluxc-message-sent-active-border-color: #267df8;
+
+    --nluxc-input-border-color: #b6cce1;
+    --nluxc-input-active-border-color: #b6cce1;
+   
+    /* --nluxc-border-radius-xs: 20px;
+    --nluxc-border-radius-s: 20px;
+    --nluxc-border-radius: 20px;
+    --nluxc-border-radius-m: 20px;
+    --nluxc-border-radius-l: 20px; */
+    
+}
